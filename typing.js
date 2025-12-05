@@ -1,4 +1,4 @@
-var words = ['Data Analyst', 'Data Scientist*', 'Data Engineer', 'Financial Analyst', 'Calisthenics Enthusiast'],
+var words = ['Customer Communication', 'Customer Engagement*', 'Customer Insights', 'Business Analyst', 'Fitness Enthusiast'],
     i = 0,
     offset = 0,
     len = words.length,
